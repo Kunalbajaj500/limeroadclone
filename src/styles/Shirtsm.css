@@ -1,0 +1,43 @@
+.restimg{
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgg>img {
+height: 6rem;
+width: 6rem;
+}
+.imgg>h2 {
+margin-left: 43%;
+}
+
+.firstimg>img{
+height: 40%;
+width: 30%;
+margin-left: 35%;
+margin-top: 2%;
+border-radius: 1%;
+
+
+}
+.firstimg>p,h6{
+    margin-left: 35%;
+  
+}
+.firstimg{
+    margin-bottom: 8%;
+}
+.Shirtsm{
+    background-color: lavender;
+}
+/* .filter{
+   display: flex;
+   margin: 5%;
+  
+}
+.filter>h3{
+    margin-left: 200px;
+    background-color:black;
+    color: white;
+    border-radius: 20px;
+    width: 200px
+} */

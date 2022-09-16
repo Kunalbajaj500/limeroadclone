@@ -1,0 +1,10 @@
+.sucess{
+    align-items: center;
+    font-size: 4rem;
+  
+    margin: 30%;
+}
+.sucess>h1{
+    color: black;
+    border: none;
+}

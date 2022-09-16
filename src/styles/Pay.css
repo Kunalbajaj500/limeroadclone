@@ -1,0 +1,13 @@
+.pay >img{
+    height: 400px; 
+    width: 500px;
+    margin-left :30% ;
+    margin-bottom: 5%;
+    border-radius: 20px;
+}
+.pay{
+    margin: 5%;
+}
+.pay>h2{
+    margin: 5%;
+}

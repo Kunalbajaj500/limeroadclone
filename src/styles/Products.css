@@ -1,0 +1,74 @@
+.prod {background-color:lavender;
+
+}
+.p1{
+
+
+height: 400px;
+width: 700px;
+
+} 
+
+.p2{
+
+  
+  height: 400px;
+width: 700px;
+
+}
+.pm{ height: 400px;
+width: 550px;
+float: left
+}
+
+.pm2{ height: 400px;
+  width: 550px;
+
+}
+
+.imgxg>img{
+ margin-left: 35%;
+ margin-top: 5%;
+ height: 10%;
+ border: 0.5px solid rgb(223, 223, 248);
+ width:25% ;
+}
+
+.ds{
+  display: flex;
+  margin: 10%;
+}
+
+.ds2{
+  display: flex;
+  margin: 10%;
+}
+.bttn>button{
+  height: 70px; 
+  width: 200px;
+  background-color:white;
+  font-size: 1.5rem;
+  color: black;
+  font-weight: 700;
+  border-radius: 20px;
+  margin-left: 35%;
+}
+.bt>button{
+  height: 70px; 
+  width: 200px;
+  background-color: rgb(255, 208, 0);
+  font-size: 1.5rem;
+  color: black;
+  font-weight: 700;
+  border-radius: 20px;
+  margin-left: 1%;
+}
+.fp{
+text-align:center;
+padding: 10%;
+
+
+}
+.fp>b{
+  font-size: 2rem;
+}

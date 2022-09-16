@@ -1,0 +1,454 @@
+{
+    "shoe": [
+        {
+            "name": "Airforce 1",
+            "quantity":1,
+            "id":1,
+            "description":"very durable",
+            "price": "Rs 10000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2038d7ff-8926-4d65-a014-6d7151588e4f/nikecourt-zoom-vapor-cage-4-rafa-hard-court-tennis-shoes-cS7wct.png"
+        },
+        {
+            "name": "Jordan classic",
+            "quantity":1,
+            "id":2,
+            "description":"very durable",
+            "price": "Rs 189000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8a100b24-af30-4d23-adb0-beaf2a2799a3/dunk-low-shoes-R8Sn2r.png"
+        },
+        {
+            "name": "Feather",
+            "quantity":1,
+            "id":3,
+            "description":"very durable",
+            "price": "Rs 3000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f4e40d1c-1e7a-48cc-acce-fab5b858c93b/air-jordan-1-zoom-cmft-shoes-mDxHSk.png"
+        },
+        {
+            "name": "Feather Classic",
+            "quantity":1,
+            "id":4,
+            "description":"very durable",
+            "price": "Rs 18000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/21d38052-598b-44f6-a857-123c9f72b015/air-force-1-07-shoe-WrLlWX.png"
+        },
+        {
+            "name": "Nike Classic",
+            "quantity":1,
+            "id":5,
+            "description":"very durable",
+            "price": "Rs 17000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a39b3392-1672-4364-a4e9-0c948f4cafcf/blazer-mid-77-jumbo-shoes-kWXfC7.png"
+        },
+        {
+            "name": "Runners",
+            "quantity":1,
+            "id":6,
+            "description":"very durable",
+            "price": "Rs 14000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/58903c0b-0afe-400e-8ac6-9bf3ccf940ba/air-max-pre-day-shoes-jMh2rB.png"
+        },
+        {
+            "name": "Runners Classic",
+            "quantity":1,
+            "id":7,
+            "description":"very durable",
+            "price": "Rs 13000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/383a85e2-f68f-4686-b7da-c957d8ce0ce5/air-force-1-mid-07-qs-shoes-tlQ3Xf.png"
+        },
+        {
+            "name": "Runners Pro",
+            "quantity":1,
+            "id":8,
+            "description":"very durable",
+            "price": "Rs 12000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/312e0df6-a0c6-4a5d-ba01-e837b3d8ee49/jordan-delta-3-sp-shoes-QZKkHQ.png"
+        },
+        {
+            "name": "Nike Dark",
+            "quantity":1,
+            "id":9,
+            "description":"very durable",
+            "price": "Rs 11000",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a42e2012-2d77-4753-b58a-44500522be61/pg-6-ep-basketball-shoes-9KkDtr.png"
+        },
+        {
+            "name": "Nike Air Max",
+            "quantity":1,
+            "id":10,
+            "description":"very durable",
+            "price": "Rs 11000",
+            "image": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_0.9/w_461,c_limit/87f8eac6-b533-4dc5-84b2-c01bd2a3373b/air-max-95-qs-shoes-VdRrwN.png"
+        }
+    ],
+
+
+    "shirt": [
+        {
+            "name": "PINK",
+            "price":  1000,
+            "amount":1,
+            "id":11,
+            "catagory":"budget",
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/V/0/2/p/9240/450/800/2/w/312/9240450800_6_1_1.jpg?ts=1649846423786"
+        },
+        {
+            "name": "BLUE",
+            "price":  1300,
+            "amount":1,
+            "catagory":"budget",
+            "id":12,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/4432/405/251/2/w/312/4432405251_6_1_1.jpg?ts=1657541003956"
+        },
+        {
+            "name": "RED",
+            "price":  1500,
+            "amount":1,
+            "catagory":"budget",
+            "id":13,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/1/p/4432/405/300/2/w/312/4432405300_6_1_1.jpg?ts=1654183611115"
+        },
+        {
+            "name": "GREEN",
+            "price":  1200,
+            "amount":1,
+            "id":14,
+            "catagory":"budget",
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/5372/306/700/2/w/312/5372306700_6_1_1.jpg?ts=1654076505277"
+        },
+        {
+            "name": "PINK",
+            "price":  1000,
+            "amount":1,
+            "catagory":"budget",
+            "id":15,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/V/0/2/p/9240/450/800/2/w/312/9240450800_6_1_1.jpg?ts=1649846423786"
+        },
+        {
+            "name": "BLUE",
+            "price":  2000,
+            "amount":1,
+            "id":16,
+            "catagory":"premium",
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/4432/405/251/2/w/312/4432405251_6_1_1.jpg?ts=1657541003956"
+        },
+        {
+            "name": "RED",
+            "price":  10550,
+            "amount":1,
+            "id":17,
+            "catagory":"premium",
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/1/p/4432/405/300/2/w/312/4432405300_6_1_1.jpg?ts=1654183611115"
+        },
+        {
+            "name": "GREEN",
+            "price": 11000,
+            "amount":1,
+            "catagory":"premium",
+            "id":18,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/5372/306/700/2/w/312/5372306700_6_1_1.jpg?ts=1654076505277"
+        },
+        {
+            "name": "PINK",
+            "price":  1800,
+            "amount":1,
+            "catagory":"moderate",
+            "id":19,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/V/0/2/p/9240/450/800/2/w/312/9240450800_6_1_1.jpg?ts=1649846423786"
+        },
+        {
+            "name": "BLUE",
+            "price":  1700,
+            "catagory":"moderate",
+            "amount":1,
+            "id":20,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/4432/405/251/2/w/312/4432405251_6_1_1.jpg?ts=1657541003956"
+        },
+        {
+            "name": "RED",
+            "price":  1800,
+            "amount":1,
+            "catagory":"moderate",
+            "id":21,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/1/p/4432/405/300/2/w/312/4432405300_6_1_1.jpg?ts=1654183611115"
+        },
+        {
+            "name": "GREEN",
+            "price":  1801,
+            "amount":1,
+            "catagory":"moderate",
+            "id":22,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/5372/306/700/2/w/312/5372306700_6_1_1.jpg?ts=1654076505277"
+        },
+        {
+            "name": "PINK",
+            "price":  1230,
+            "amount":1,
+            "catagory":"premium",
+            "id":23,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/V/0/2/p/9240/450/800/2/w/312/9240450800_6_1_1.jpg?ts=1649846423786"
+        },
+        {
+            "name": "BLUE",
+            "price":  1034,
+            "catagory":"budget",
+            "amount":1,
+            "id":24,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/4432/405/251/2/w/312/4432405251_6_1_1.jpg?ts=1657541003956"
+        },
+        {
+            "name": "RED",
+            "price": 15400,
+            "catagory":"moderate",
+            "amount":1,
+            "id":25,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/1/p/4432/405/300/2/w/312/4432405300_6_1_1.jpg?ts=1654183611115"
+        },
+        {
+            "name": "GREEN",
+            "price":  2230,
+            "amount":1,
+            "catagory":"premim",
+            "id":26,
+            "description":"very durable",
+            "image": "https://static.zara.net/photos///2022/I/0/2/p/5372/306/700/2/w/312/5372306700_6_1_1.jpg?ts=1654076505277"
+        }
+    ],
+
+
+    "Shorts":[
+{
+      "name": "Shot 1",
+      "price": "Rs 1000",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ad5886f4-06fe-4215-b2b6-57b8163f78bd/dri-fit-wild-run-challenger-18cm-brief-lined-running-shorts-jFtBwG.png"
+},
+{
+      "name": "Shot2",
+      "price": "Rs 1000",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/281c75d1-c80e-4b0a-929f-0a24f34ff7bd/dri-fit-heritage-10cm-brief-lined-running-shorts-qxxh7C.png"
+},
+{
+      "name": "Shot3",
+      "price": "Rs 1000",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4fdc24c2-6a8b-4c59-ab51-0a166aaaf3ce/dri-fit-run-division-3-in-1-pinnacle-running-shorts-MCm10p.png"
+},
+{
+      "name": "Shot4",
+      "price": "Rs 1000",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/23cca245-4ac9-4459-958c-12332ec8c9f1/dri-fit-stride-run-division-2-in-1-running-shorts-pSlGQz.png"
+},
+{
+      "name": "Shot5",
+      "price": "Rs 1000",
+      "image":" https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5c44f2fc-ffcf-44a8-8db2-6e04cf7a6095/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+}
+    ],
+    "footer": {
+        "support": [
+              {
+                    "name": "Online Help",
+                    "url": "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1"
+              },
+              {
+                    "name": "Customer Service",
+                    "url": "https://www.mi.com/in/service/online/"
+              },
+              {
+                    "name": "Shipping FAQ",
+                    "url": "https://www.mi.com/in/service/shipping/"
+              },
+              {
+                    "name": "Service Centres",
+                    "url": "https://www.mi.com/in/service/repair/"
+              },
+              {
+                    "name": "Warrenty",
+                    "url": "https://www.mi.com/in/service/warranty/"
+              },
+              {
+                    "name": "Mi Exchange",
+                    "url": "https://www.mi.com/in/miexchange/"
+              },
+              {
+                    "name": "Bulk Order",
+                    "url": "https://www.mi.com/in/bulkbuy/"
+              },
+              {
+                    "name": "User Guide",
+                    "url": "https://www.mi.com/in/service/userguide/"
+              },
+              {
+                    "name": "Laptop Drivers",
+                    "url": "https://www.mi.com/in/service/support/laptop-drivers.html"
+              },
+              {
+                    "name": "Mi Screen Protect",
+                    "url": "https://www.mi.com/in/service/miphoneprotection/#miscreenprotect"
+              },
+              {
+                    "name": "Mi Extended Warranty",
+                    "url": "https://www.mi.com/in/service/miextendedwarranty/"
+              }
+        ],
+        "shopAndLearn": [
+              {
+                    "name": "Mi 10i",
+                    "url": "https://www.mi.com/in/mi-10i/"
+              },
+              {
+                    "name": "Mi 10T Series",
+                    "url": "https://in.event.mi.com/in/mi-10t-series"
+              },
+              {
+                    "name": "Mi 11 Ultra",
+                    "url": "https://www.mi.com/in/mi-11-ultra/"
+              },
+              {
+                    "name": "Mi 11X",
+                    "url": "https://www.mi.com/in/mi-11x/"
+              },
+              {
+                    "name": "Mi 11X Pro",
+                    "url": "https://www.mi.com/in/mi-11x-pro/"
+              },
+              {
+                    "name": "Redmi 8",
+                    "url": "https://www.mi.com/in/redmi-8/"
+              },
+              {
+                    "name": "Redmi 9",
+                    "url": "https://www.mi.com/in/redmi-9/"
+              },
+              {
+                    "name": "Redmi 9 Prime",
+                    "url": "https://www.mi.com/in/redmi-9-prime/"
+              },
+              {
+                    "name": "Redmi 9i",
+                    "url": "https://www.mi.com/in/redmi-9i/"
+              },
+              {
+                    "name": "Redmi 9A",
+                    "url": "https://www.mi.com/in/redmi-9a/"
+              },
+              {
+                    "name": "Redmi Note 10",
+                    "url": "https://www.mi.com/in/redmi-note-10/"
+              },
+              {
+                    "name": "Redmi Note 10 Pro",
+                    "url": "https://www.mi.com/in/redmi-note-10-pro/"
+              },
+              {
+                    "name": "Redmi Note 10 Pro Max",
+                    "url": "https://www.mi.com/in/redmi-note-10-pro-max/"
+              },
+              {
+                    "name": "Redmi Note 9 Pro",
+                    "url": "https://www.mi.com/in/redmi-note-9-pro/"
+              },
+              {
+                    "name": "Redmi Note 9",
+                    "url": "https://www.mi.com/in/redmi-note-9/"
+              },
+              {
+                    "name": "Redmi Note 9 Pro Max",
+                    "url": "https://www.mi.com/in/redmi-note-9-pro-max/"
+              },
+              {
+                    "name": "TVs",
+                    "url": "https://www.mi.com/in/all-mi-tv"
+              },
+              {
+                    "name": "Laptops",
+                    "url": "https://www.mi.com/in/xiaomi-laptops"
+              }
+        ],
+        "retailStore": [
+              {
+                    "name": "Mi Home",
+                    "url": "https://www.mi.com/in/service/mihome/"
+              },
+              {
+                    "name": "Mi Authorised Stores",
+                    "url": "https://www.mi.com/in/service/authorized_stores/"
+              }
+        ],
+        "aboutUS": [
+              {
+                    "name": "Xioami",
+                    "url": "https://www.mi.com/in/about/"
+              },
+              {
+                    "name": "Mediakit",
+                    "url": "https://www.mi.com/in/mediakit/"
+              },
+              {
+                    "name": "Culture",
+                    "url": "https://www.mi.com/in/about/#culture"
+              },
+              {
+                    "name": "User Agreement",
+                    "url": "https://www.mi.com/in/about/agreement/"
+              },
+              {
+                    "name": "Privacy Policy",
+                    "url": "https://www.mi.com/in/about/privacy/"
+              },
+              {
+                    "name": "Declarations",
+                    "url": "https://www.mi.com/in/service/support/mideclare.html"
+              },
+              {
+                    "name": "Integrity & Compliance",
+                    "url": "https://integrity.mi.com/global"
+              },
+              {
+                    "name": "Smartphone Quality",
+                    "url": "https://www.mi.com/in/smartphone-quality/"
+              }, 
+              {
+                    "name": "TV Quality",
+                    "url": "https://www.mi.com/in/tv-quality/"
+              },
+              {
+                    "name": "Service Quality",
+                    "url": "https://www.mi.com/in/service-quality/"
+              },
+              {
+                    "name": "Environment",
+                    "url": "https://www.mi.com/in/service/support/ewastetakeback.html"
+              },
+              {
+                    "name": "Sitemap",
+                    "url": "https://www.mi.com/in/sitemap"
+              }
+        ],
+        "contactUs": [
+              {
+                    "name": "Email",
+                    "url": "https://in.event.mi.com/in/questionnaire/email_us"
+              },
+              {
+                    "name": "Careers",
+                    "url": "https://www.mi.com/in/about/#career"
+              }
+        ]
+  }
+
+}

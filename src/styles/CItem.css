@@ -1,0 +1,92 @@
+.ch{
+    display: flex;
+   
+align-items: center;
+  margin: 2%;
+}
+.ch>h3{
+    font-size:large ;
+    
+}
+.ch>img{
+    height: 35px;
+    width:40px ;
+}
+.sec{
+    margin-left: 5%;
+}
+.product-Img{
+    height: 120px;
+    width: 120px;
+}
+.product-Img>img{
+    height: 100%;
+    width: 100%;
+}
+
+.cart-info{
+    display: flex;
+align-items: center;
+justify-content: center;
+margin: 5%;
+height: 80px;
+}
+.title{
+margin: 2%;
+margin-left: 5%;
+}
+.quantity{
+margin: 2%;
+margin-left: 5%;
+width: 150px;
+}
+.price{
+margin: 2%;
+margin-left: 5%;
+}
+.remove{
+   margin: 2%; 
+   margin-left: 10%;
+}
+.quantity>button{
+    border: none;
+    background-color: whitesmoke;
+ margin: 2%;
+
+    
+}
+.remove>button{
+    background-color: rgb(241, 62, 31);
+}
+.quantity>input{
+    width: 50px;
+    border: 1px solid grey;
+    text-align: center;
+}
+.cart-container{
+    background-color: whitesmoke;
+    height: 500px;
+  
+    margin: 5%;
+    border-radius: 20px;
+}
+
+.che{
+margin-left: 80%;
+
+   }
+   .cc>.b1{
+background-color: rgb(42, 209, 42);
+   }
+
+   .cc>.b2{
+background-color: rgb(235, 57, 57);
+   }
+   .cc>button{
+    height: 50px;
+    width: 100px;
+    margin: 1%;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-weight: 600;
+   }

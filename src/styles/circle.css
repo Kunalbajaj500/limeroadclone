@@ -1,0 +1,40 @@
+.circle{
+    display: flex;
+  justify-content: center;
+  overflow-x: auto;
+
+
+ 
+ 
+}
+
+   
+
+.itemc >img{
+    height:12rem ;
+    width: 9rem;
+border: 2px solid rgb(219, 214, 214);
+   margin: 3%;
+   border-radius: 120%;
+  
+   
+
+ 
+}
+.itemc{
+    margin: 10px;
+  
+  
+}
+.itemc>h5{
+    margin-left: 2rem;
+    margin-top: 2px;
+    font-family:serif;
+    font-weight: 600;
+    color: black;
+text-decoration-line: none;
+    
+}
+
+
+

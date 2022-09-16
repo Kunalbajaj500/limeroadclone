@@ -1,0 +1,16 @@
+.about{
+    background-image: url(../images/find.png);
+   background-size: cover;
+   height: 40rem;
+   width: 85rem;
+
+}
+.about>h1{
+   margin-left: 35%;
+ position: relative;
+ font-size: 5rem;
+ color: white;
+ border: none;
+padding-top: 15%;
+ 
+}

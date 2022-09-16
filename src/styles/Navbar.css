@@ -1,0 +1,31 @@
+
+
+
+.logoji>img{
+    height: 6rem;
+    width: 6rem;
+    background-color:whitesmoke;
+    border-radius: 100%;
+    border: 1px solid black;
+ 
+}
+.icon>img{
+    height: 2rem;
+    width: 2rem;
+    margin-top: 2.5%;
+    margin-left: 1px;
+    
+   
+   
+
+
+}
+.icon{
+margin-left: 30rem;
+display: flex;
+}
+.bag>img{
+    height: 2rem;
+    width: 2rem; 
+    
+}

@@ -1,0 +1,25 @@
+.fimg{
+  display: flex;
+justify-content: center;
+flex-wrap: wrap;
+margin-bottom: rem;
+
+
+}
+
+ 
+
+.itemp >img{
+  height:22rem ;
+  width: 18rem;
+border-radius: 100%;
+
+
+}
+.itemp{
+  margin: 10px;
+  border: 5px solid black;
+border-radius: 100%;
+ 
+ 
+}

@@ -1,0 +1,16 @@
+
+
+
+
+
+.grad{
+    /* background-image: linear-gradient(to bottom right ,lightblue 50%,rgb(175, 173, 168) 40%); */
+    border-radius: 30px;
+}
+.bgc{
+    /* background-color:rgb(250, 240, 221); */
+    background-color:lavender;
+}
+ul>li{
+    color: black
+}

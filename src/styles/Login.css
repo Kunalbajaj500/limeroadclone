@@ -1,0 +1,33 @@
+.login{
+    width: 400px;
+    height: 300px;
+   margin-left: 35%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+
+   border: 2px solid black;
+}
+
+.login>input{
+    display: block;
+    width: 250px;
+    margin: 7%;
+    margin-left: 20%;
+    text-align: center;
+}
+.bu>button{
+    height: 40px;
+    width: 120px;
+    margin: 8%;
+    margin-left: 35%;
+    background-color: gray;
+}
+
+.sp{
+    display: block;
+    margin: 5%;
+    margin-left: 35%;
+}
+.ld>h2{
+    margin: 5%;
+}
